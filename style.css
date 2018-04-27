@@ -27,3 +27,49 @@
 .menu a:hover{
   background-color: #111;
 }
+
+/* Start page */
+
+/*Side - About us */
+.side{
+  box-sizing: border-box;
+  width: 29%;
+  height: 100%;
+  border: 1px solid #ccc;
+  float:left;
+  padding: 10px;
+  margin: 1px;
+}
+
+.about{
+  text-align: center;
+}
+
+/* Main - News */
+
+.main{
+  box-sizing: border-box;
+  width: 70%;
+  height: 100%;
+  border: 1px solid #ccc;
+  float: right;
+  padding: 10px;
+  margin: 1px;
+}
+
+.post {
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  border: 1px solid #ccc;
+  float:right;
+  padding: 10px;
+  margin: 2px;
+
+}
+
+.post h4{
+  text-align: left;
+  font-family: Calibri;
+  font-size: 18px;
+}
